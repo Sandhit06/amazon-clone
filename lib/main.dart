@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> with SingleTickerProviderStateMixin {
           title: Text(
             'Whatsapp',
             style: TextStyle(
-              fontSize: 21,
+              fontSize: 20,
             ),
           ),
           elevation: 0.0,
